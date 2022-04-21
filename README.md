@@ -25,5 +25,7 @@ http://localhost:8080/{customerId}
 
 
 **Note**: customerId range from 1 to 100 for this application.
+
 Output for customerId beyond the range : **NOT_FOUND**
+
 Output for bad input : **Bad Request**
